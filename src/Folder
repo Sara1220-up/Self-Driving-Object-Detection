@@ -1,0 +1,10 @@
+Contains all your modular Python code.
+
+Files to create:
+File Name	Description
+detect.py	Contains code for running YOLOv8 detection on an image
+tracker.py	Contains code for Norfair tracking setup and usage
+analyzer.py	Code to analyze movement (speed/direction) using tracked coordinates
+main.py	Pipeline script that ties everything together; CLI-based
+
+Each script should be self-contained and import functions from each other.
